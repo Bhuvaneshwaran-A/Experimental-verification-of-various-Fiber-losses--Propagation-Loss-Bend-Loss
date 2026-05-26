@@ -63,7 +63,7 @@ This \(a\) is for **660nm wavelength**.
 4. Insert 1m fiber between **SFH450V (950nm)** & **SFH350V**.  
 5. Observe detected signal at ANALOG OUT.  
 6. Measure peak value = **V1**.  
-7. Replace 1m fiber with 3m fiber. Measure peak value = **V2**.  
+7. Replace 1m fiber with 3m fiber. Measure peak value = **V2**. 
 
 **Formula:**  
 <img width="758" height="50" alt="image" src="https://github.com/user-attachments/assets/56fbe9d6-9bff-460b-b04b-d2a73d0c3cd1" />
